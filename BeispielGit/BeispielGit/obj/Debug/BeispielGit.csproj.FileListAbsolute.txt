@@ -1,0 +1,9 @@
+D:\Dateien von n6t-gz1\Documents\Visual Studio 2015\Projects\BeispielGit\BeispielGit\bin\Debug\BeispielGit.exe.config
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\bin\Debug\BeispielGit.exe.config
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\bin\Debug\BeispielGit.exe
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\bin\Debug\BeispielGit.pdb
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\obj\Debug\BeispielGit.csprojResolveAssemblyReference.cache
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\obj\Debug\BeispielGit.Properties.Resources.resources
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\obj\Debug\BeispielGit.csproj.GenerateResource.Cache
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\obj\Debug\BeispielGit.exe
+D:\Dateien von n6t-gz1\Desktop\git_repo\BeispielGit\BeispielGit\obj\Debug\BeispielGit.pdb
