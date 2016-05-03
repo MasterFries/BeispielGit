@@ -18,14 +18,6 @@ namespace BeispielGit
             createTextBox();
         }
 
-        private void createTextBox()
-        {
-            TextBox box = new TextBox();
-            box.Width = 150;
-            box.Height = 50;
-            box.Top = 30;
-            box.Left = 50;
-            Controls.Add(box);
-        }
+        
     }
 }
